@@ -6,8 +6,14 @@ The purpose of this deliverable is to update a webpage and dynamic table to prov
 ![alt text](Images/UFOSightings_original.png)
 
 ## Results: Deliverable 1 (Filter by Multiple Criteria)
-Table filters for city, state, country, and shape are added to the original JavaScript and HTML. Someone might use this new webpage to compare their sightings with similar sightings by location and shape. 
+Table filters are added to the original JavaScript and HTML. The webpage includes five different filter search boxes on the left side of the page, which includes the Date, City, State, Country, and Shape. The results of the information entered into the filter search box will return the UFOs sightings for the exact information entered in the filter search. Someone might use this new webpage to compare their sightings with similar sightings by location and shape. 
 
 ![alt_text](Images/Search_results_UFOChallenge.png)
 
 ## Summary 
+### Drawbacks 
+Having so many filters is not user-friendly. 
+
+### Recommendations 
+Have a drop-down box for each category so that users can select from what data is included in the table. 
+Alphabetizing the results. 
