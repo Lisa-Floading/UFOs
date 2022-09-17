@@ -15,5 +15,5 @@ Table filters are added to the original JavaScript and HTML. The webpage include
 Having so many filters is not user-friendly. 
 
 ### Recommendations 
-Have a drop-down box for each category so that users can select from what data is included in the table. 
-Alphabetizing the results. 
+* Have a drop-down box for each category so that users can select from what data is included in the table. 
+* Alphabetizing the results. 
